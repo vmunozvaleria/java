@@ -1,3 +1,3 @@
-# java
+# Java
 Learning Java
-I created this repository because I want to learn Java
+I created this repository because I wanted to learn Java.
